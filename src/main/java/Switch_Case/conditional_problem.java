@@ -1,4 +1,4 @@
-package ArrayList_And_Switch_Case;
+package Switch_Case;
 
 import java.util.Scanner;
 
