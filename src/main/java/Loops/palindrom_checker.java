@@ -22,7 +22,7 @@ package Loops;
 //
 //121
 //Output
-//
+
 //true
 
 import java.util.Scanner;

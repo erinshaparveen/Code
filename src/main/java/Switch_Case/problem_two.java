@@ -2,8 +2,8 @@ package Switch_Case;
 
 import java.util.Scanner;
 
-//Switch Case Problem 2
-//You are given a positive integer N. Write a program using switch case such that :
+//  Switch Case Problem 2
+//  You are given a positive integer N. Write a program using switch case such that :
 //
 //        if user enters 12 , print "I am even",
 //
@@ -11,10 +11,10 @@ import java.util.Scanner;
 //
 //        if user enters 25 , print "I am odd",
 //
-//Otherwise , print "I am just a number".
+//  Otherwise , print "I am just a number".
 //
-//Input Format
-//First line contains an integer N.
+//  Input Format
+//  First line contains an integer N.
 //
 //Output Format
 //Print the sentence related to the integer as per description.

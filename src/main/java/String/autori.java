@@ -2,9 +2,9 @@ package String;
 
 import java.util.Scanner;
 
-//Input
+//   Input
 //
-//Knuth-Morris-Pratt
+//  Knuth-Morris-Pratt
 //        Output
 //
 //KMP

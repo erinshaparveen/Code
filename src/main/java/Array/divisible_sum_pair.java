@@ -12,7 +12,6 @@ import java.util.Scanner;
 //
 //Output Format
 //Print the number of pairs a[i] + a[j] divisble by k, where i<j.
-//
 //Example 1
 //Input
 //

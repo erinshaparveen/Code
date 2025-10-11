@@ -7,6 +7,7 @@ public class word_count {
         Scanner sc = new Scanner(System.in);
         String str = sc.nextLine();
         String[] str_array = str.trim().split("\\s+");
+
         System.out.println(str_array.length);
     }
 }

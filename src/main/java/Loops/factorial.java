@@ -27,10 +27,10 @@ import java.util.Scanner;
 //Input:
 //
 //        4
-//Output:
+//  Output:
 //
 //        24
-//Explanation:
+//    Explanation:
 //
 //        4! = 4*3*2*1 = 24.
 public class factorial {

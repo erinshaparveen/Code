@@ -15,10 +15,10 @@ import java.util.Scanner;
 //Print "name" is a Super Hero
 //
 //Example 1
-//Input
+// Input
 //
 //        Accio
-//Output
+// Output
 //
 //Accio is a Super Hero
 public class super_hero {

@@ -11,10 +11,10 @@ public class index_after_sorting {
         {
             array[i] = sc.nextInt();
         }
-        int wanted_value_index = sc.nextInt();
-        print_index(array, length, wanted_value_index);
+        int value = sc.nextInt();
+        print_index(array, length, value);
     }
-    public static void print_index(int[] array , int arr_length, int wanted_value_index) {
+    public static void print_index(int[] array , int arr_length, int value) {
         for(int i =1 ;i <arr_length ; i++)
         {
             for(int j=0 ; j<arr_length-1 ;j++)
@@ -29,7 +29,7 @@ public class index_after_sorting {
         }
         for(int i = 0 ; i < arr_length ; i++)
         {
-            if(array[i] == wanted_value_index)
+            if(array[i] == value)
             {
                 System.out.println(i);
                 break;

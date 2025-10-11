@@ -25,10 +25,10 @@ import java.util.Scanner;
 //Example 2
 //Input
 //
-//10
-//Output
+//  10
+//  Output
 //
-//10 is not a prime number
+//  10 is not a prime number
 public class prime_number {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

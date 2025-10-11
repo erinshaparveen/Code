@@ -19,7 +19,6 @@ import java.util.Scanner;
 //4
 //        3 6 1 0
 //Output
-//
 //1
 public class largest_number_twice_other {
     public static void main(String[] args) {

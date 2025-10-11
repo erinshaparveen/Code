@@ -3,17 +3,17 @@ package Switch_Case;
 import java.util.Scanner;
 
 //Switch Case Problem 3
-//Write a program using switch cases in which two positive integers a and b will be taken as inputs.
+// Write a program using switch cases in which two positive integers a and b will be taken as inputs.
 //
-//If (a%b) is 0 then output will be "Remainder is too small",
+// If (a%b) is 0 then output will be "Remainder is too small",
 //
-//If (a%b) is 1 then output will be "Remainder is small",
+// If (a%b) is 1 then output will be "Remainder is small",
 //
-//If (a%b) is 2 then output will be "Remainder is large",
+// If (a%b) is 2 then output will be "Remainder is large",
 //
-//In any other cases output will be "Remainder is too large".
+// In any other cases output will be "Remainder is too large".
 //
-//The output should not contain quotation marks.
+// The output should not contain quotation marks.
 //
 //        Input Format
 //First line contains two integers a and b

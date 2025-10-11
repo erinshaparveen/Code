@@ -8,11 +8,11 @@ public class stair_case {
         int n = sc.nextInt();
         for(int i=1;i<=n;i++)
         {
-            for(int j=0;j<n-i;j++)  // to print the space
+            for(int j=0; j<n-i ; j++)  // to print the space
             {
                 System.out.print(" ");
             }
-            for(int k=0;k<i;k++)  // to print the pattern
+            for(int k=0; k<i ; k++)  // to print the pattern
             {
                 System.out.print("*");
             }

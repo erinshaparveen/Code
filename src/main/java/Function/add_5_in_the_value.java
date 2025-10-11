@@ -9,10 +9,10 @@ import java.util.Scanner;
 //Help Lily by writing a program for the same.
 //
 //Input Format
-//First line contains an integer n
+// First line contains an integer n
 //
-//Output Format
-//Output will be (n+5)
+// Output Format
+// Output will be (n+5)
 public class add_5_in_the_value {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

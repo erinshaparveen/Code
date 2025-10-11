@@ -22,11 +22,11 @@ import java.util.Scanner;
 //        Example 1
 //Input
 //
-//6
+//        6
 //        1 2 3 4 5 6
 //Output
 //
-//21 3 6
+//        21 3 6
 //Explanation:
 //
 //The sum of all the elements of the array 1+2+3+4+5+6 is 21, the average (1+2+3+4+5+6)/6 is 3, and the maximum among all of them is 6.

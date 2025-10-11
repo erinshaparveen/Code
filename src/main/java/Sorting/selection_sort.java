@@ -19,7 +19,7 @@ public class selection_sort {
             int min_index = i;
             for(int j = i+1; j<arr_length; j++)
             {
-                if(array[min_index]>array[j])
+                if(array[min_index] > array[j])
                 {
                     min_index = j;
                 }

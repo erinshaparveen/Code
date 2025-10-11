@@ -42,7 +42,6 @@ import java.util.Scanner;
 //Explanation
 //
 //[6,4,1]
-//
 //swap    a
 //0       [6,4,1]
 //        1       [4,6,1]

@@ -14,9 +14,9 @@ import java.util.Scanner;
 //Printing is handled by the main function you just have to come up with an inplace solution.
 //
 //        Example 1:
-//Input
+//        Input
 //
-//4
+//        4
 //        1 3 5 7
 public class reverse_an_array {
     public static void main(String[] args) {

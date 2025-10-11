@@ -36,7 +36,6 @@ package Variable;
 //
 //        25
 //Output:
-//
 //        77.000000
 
 import java.util.Scanner;

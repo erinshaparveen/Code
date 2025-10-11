@@ -41,7 +41,6 @@ public class verify_cube {
         System.out.println(a_plus_b_cube+" "+ rhs);
         if(a_plus_b_cube==rhs) {
             System.out.println("Verified");
-            return;
         }
         else
         {

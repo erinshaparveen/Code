@@ -18,9 +18,9 @@ import java.util.Scanner;
 //
 //6
 //        3 2 1 5 6 4
-//Output
+// Output
 //
-//5
+// 5
 public class second_largest_element {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

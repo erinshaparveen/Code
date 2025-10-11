@@ -24,6 +24,7 @@ public class pangrams {
                 return;
             }
         }
+
         System.out.println("pangram");
     }
 }

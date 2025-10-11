@@ -19,7 +19,6 @@ import java.util.Scanner;
 //5
 //        2 3 1 -1 0
 //Output
-//
 //6
 //Explanation
 //

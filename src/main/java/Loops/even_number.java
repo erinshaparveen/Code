@@ -18,8 +18,8 @@ import java.util.Scanner;
 //Output:
 //
 //        0 2 4 6 8
-//Example 2
-//Input:
+//  Example 2
+//  Input:
 //
 //        7
 //Output:

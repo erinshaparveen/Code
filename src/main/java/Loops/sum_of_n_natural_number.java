@@ -24,11 +24,11 @@ import java.util.Scanner;
 //
 //Here, n = 5, so 1 + 2 + 3 + 4 + 5 = 15
 //
-//Example 2
-//Input
+// Example 2
+// Input
 //
 //1
-//Output
+// Output
 //
 //1
 public class sum_of_n_natural_number {

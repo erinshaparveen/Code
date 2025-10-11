@@ -20,7 +20,6 @@ import java.util.Scanner;
 //        Example 1
 //Input
 //
-//
 //8
 //        7 5 2 11 2 43 1 1
 //        2

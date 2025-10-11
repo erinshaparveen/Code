@@ -20,7 +20,6 @@ import java.util.Scanner;
 //
 //75 90
 //Output:
-//
 //        15
 public class hdf_two_number {
     public static void main(String[] args) {

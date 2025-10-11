@@ -14,10 +14,10 @@ import java.util.Scanner;
 //        Example 1
 //Input
 //
-//1111221 1
-//Output
+//   1111221 1
+//   Output
 //
-//5
+//   5
 public class count_frequency_number {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

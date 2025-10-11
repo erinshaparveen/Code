@@ -37,8 +37,6 @@ import java.util.Scanner;
 //
 //1
 //Explanation
-//
-//
 //Since 2x3x3 is less than 3x3 + 3x3 + 3x3,
 //So this is an acute-angled triangle and hence, the answer is 1.
 public class which_angle_triangle {

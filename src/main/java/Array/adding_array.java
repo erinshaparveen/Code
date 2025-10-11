@@ -22,13 +22,13 @@ import java.util.Scanner;
 //Example 1
 //Input
 //
-//3
+//        3
 //        1 2 3
 //        3
 //        3 2 1
 //Output
 //
-//4
+//        4
 //        4
 //        4
 public class adding_array {

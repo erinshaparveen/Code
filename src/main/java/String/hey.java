@@ -6,7 +6,7 @@ import java.util.Scanner;
 //Input
 //
 //        hey
-//Output
+//    Output
 //
 //        heey
 public class hey {

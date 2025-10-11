@@ -1,5 +1,4 @@
 package Conditional;
-//        Conditional Problem 6
 //        You are given two integers a and b. You need to perform the following operations
 //
 //        If both integers are odd, print `we are odd`.

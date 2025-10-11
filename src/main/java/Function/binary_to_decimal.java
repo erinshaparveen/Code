@@ -16,7 +16,6 @@ package Function;
 //        111
 //
 //Output::
-//
 //        7
 
 import java.util.Scanner;

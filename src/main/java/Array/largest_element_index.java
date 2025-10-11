@@ -22,11 +22,11 @@ import java.util.Scanner;
 //Example 1
 //Input
 //
-//5
+//       5
 //        1 2 3 4 5
 //Output
 //
-//4
+//     4
 public class largest_element_index {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

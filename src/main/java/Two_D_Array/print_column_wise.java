@@ -26,7 +26,6 @@ import java.util.Scanner;
 //        4 5 6
 //        7 8 9
 //Output:
-//
 //        1 4 7 2 5 8 3 6 9
 public class print_column_wise {
     public static void main(String[] args) {

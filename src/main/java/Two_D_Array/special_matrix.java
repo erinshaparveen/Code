@@ -21,7 +21,6 @@ import java.util.Scanner;
 //
 //Example 1:
 //Input:
-//
 //        1
 //        3
 //        1 0 2

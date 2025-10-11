@@ -16,11 +16,11 @@ import java.util.Scanner;
 //Example 1
 //Input
 //
-//4
+//        4
 //        4 3 2 10
 //Output
 //
-//15 16 17 9
+//       15 16 17 9
 //Explanation
 public class sum_except_self {
     public static void main(String[] args) {

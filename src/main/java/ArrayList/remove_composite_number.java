@@ -24,7 +24,6 @@ import java.util.Scanner;
 //4
 //        3 12 13 15
 //Output
-//
 //3 13
 //Explanation
 //

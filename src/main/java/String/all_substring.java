@@ -8,7 +8,6 @@ public class all_substring {
         String str = sc.nextLine();
         substring(str);
     }
-
     public static void substring(String str) {
         for(int i = 0 ; i < str.length() ; i ++ )
         {

@@ -21,7 +21,6 @@ package Patterns;
 //
 //        3
 //Output::
-//
 //Pattern Image
 
 import java.util.Scanner;

@@ -31,7 +31,6 @@ import java.util.Scanner;
 //5
 //        2 4 1 6 7
 //Output
-//
 //1
 public class shortest_distance {
     public static void main(String[] args) {

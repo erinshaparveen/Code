@@ -23,7 +23,6 @@ import java.util.Scanner;
 //4 3
 //        1 2 4 3
 //Output
-//
 //1
 public class consecutive_sum_k {
     public static void main(String[] args) {

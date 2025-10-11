@@ -16,12 +16,12 @@ import java.util.Scanner;
 //Print Yes if the second last place value is 0 else No.
 //
 //        EXAMPLE 1
-//Input:
+//  Input:
 //
 //        100
-//Output::
+//  Output::
 //
-//Yes
+//  Yes
 public class place_value_checker {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

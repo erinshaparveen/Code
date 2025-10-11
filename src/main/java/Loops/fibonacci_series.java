@@ -32,11 +32,11 @@ package Loops;
 //
 //The first 10 terms of the Fibonacci sequence are printed above.
 //
-//Example 2
-//Input
+//  Example 2
+//  Input
 //
 //2
-//Output
+//  Output
 //
 //0
 //        1

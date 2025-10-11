@@ -9,10 +9,9 @@ import java.util.Scanner;
 //If input is 'B' , print "I am the second letter",
 //If input is 'C' , print "I am the third letter",
 //If input is 'D' , print "I am the fourth letter",
-//If input is 'E' , print "I am the fifth letter",
+// If input is 'E' , print "I am the fifth letter",
 //For any other input character, print "I don't belong here".
 //        Note that, Input characters will only be Capital Letters.
-//
 //Input Format
 //First line contains a character
 //

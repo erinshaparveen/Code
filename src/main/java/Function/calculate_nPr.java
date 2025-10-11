@@ -15,7 +15,6 @@ import java.util.Scanner;
 //
 //        Example 1
 //Input
-//
 //5
 //        2
 //Output

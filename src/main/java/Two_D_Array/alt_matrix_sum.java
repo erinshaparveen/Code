@@ -24,7 +24,7 @@ import java.util.Scanner;
 //        7 8 9
 //Output
 //
-//25
+//          25
 //        20
 public class alt_matrix_sum {
     public static void main(String[] args) {

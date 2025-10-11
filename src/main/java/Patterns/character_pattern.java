@@ -7,7 +7,6 @@ import java.util.Scanner;
 //
 //        Input Format
 //First line of input contains N, the number of rows for the pattern
-//
 //Output Format
 //You need to print the pattern.
 public class character_pattern {

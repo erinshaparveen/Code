@@ -21,7 +21,7 @@ import java.util.Scanner;
 //200
 //Output
 //
-//1
+//        1
 //        153
 public class armstrong_number {
     public static void main(String[] args) {

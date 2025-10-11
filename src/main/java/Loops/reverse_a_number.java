@@ -29,7 +29,7 @@ import java.util.Scanner;
 //Output
 //
 //323341
-public class reverse_a_string {
+public class reverse_a_number {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int value = sc.nextInt();

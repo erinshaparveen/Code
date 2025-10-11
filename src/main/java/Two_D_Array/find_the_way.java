@@ -5,7 +5,8 @@ import java.util.Scanner;
 //Find The Way
 //You are given a binary matrix of dimensions m*n. A mouse enters the matrix at cell (0,0) in left to right direction.
 //
-//He goes in the same direction if he encounters a 0 and he takes a right turn when he encounters a 1, and changes that specific 1 to 0. Otherwise he may get stuck in a cycle!
+//He goes in the same direction if he encounters a 0 and he takes a right turn when he encounters a 1, and changes that specific 1 to 0.
+// Otherwise he may get stuck in a cycle!
 //
 //You have to find the co-ordinates from where this mouse will exit the matrix.
 //
@@ -60,7 +61,7 @@ public class find_the_way {
         int[] x_axis = {0 , 1, 0 , -1};
         int[] y_axis = {1, 0 , -1 , 0};
         int i = 0, j = 0, dir = 0;
-        while(row>i && i>=0 && j>=0 && j<column)
+        while(row>i && i>=0 && j>=0 && column>j)
         {
             if(array[i][j]==1)
             {

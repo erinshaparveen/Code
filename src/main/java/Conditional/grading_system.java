@@ -29,11 +29,11 @@ import java.util.Scanner;
 //
 //As according to the given condition, for N (marks) >90 - Excellent is printed
 //
-//Example 2
-//Input
+//  Example 2
+//  Input
 //
-//75
-//Output
+//  75
+//  Output
 //
 //        Fair
 public class grading_system {

@@ -35,7 +35,6 @@ public class day_in_a_month {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int month = sc.nextInt();
-        int day;
         switch (month){
             case 6: case 11: case 4: case 12:
                 System.out.println(30);
@@ -47,7 +46,5 @@ public class day_in_a_month {
                 System.out.println(31);
                 break;
         }
-
-
     }
 }

@@ -12,9 +12,9 @@ import java.util.Scanner;
 //For each test case print the value of N in a new line.
 //
 //        Example 1
-//Input
+//  Input
 //
-//4
+//  4
 //        8
 //        6
 //        10

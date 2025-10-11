@@ -24,7 +24,6 @@ import java.util.Scanner;
 //        1 2
 //        2 3
 //Output
-//
 //1 2 3 2
 public class alternative_manner {
     public static void main(String[] args) {

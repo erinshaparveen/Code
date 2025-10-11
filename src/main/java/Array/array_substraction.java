@@ -23,13 +23,13 @@ import java.util.Scanner;
 //Example 1
 //Input
 //
-//3
+//        3
 //        3 2 1
 //        3
 //        1 2 3
 //Output
 //
-//1
+//        1
 //        9
 //        8
 public class array_substraction {

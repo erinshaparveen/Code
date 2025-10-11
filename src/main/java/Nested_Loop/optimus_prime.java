@@ -29,8 +29,8 @@ import java.util.Scanner;
 //        3
 //        5
 //        7
-//Example 2
-//Input:
+// Example 2
+// Input:
 //
 //        13
 public class optimus_prime {

@@ -13,7 +13,6 @@ public class maximum_occurance {
         }
         maximum_occurrence(array, length);
     }
-
     public static void maximum_occurrence(int[] array , int arr_length) {
         for (int i = 1; i < arr_length; i++) {
             for (int j = 0; j < arr_length - 1; j++) {

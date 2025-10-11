@@ -20,7 +20,7 @@ package Patterns;
 //
 //Example 2
 //Input
-//
+
 //8
 
 

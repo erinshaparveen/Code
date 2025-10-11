@@ -6,10 +6,10 @@ package Function;
 //none
 //
 //Output Format
-//"I am another function" is to be printed without quotations as below
+//  "I am another function" is to be printed without quotations as below
 //
-//Example 1
-//Input
+//  Example 1
+//  Input
 //
 //        Output
 //

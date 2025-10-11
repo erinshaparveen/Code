@@ -12,7 +12,6 @@ import java.util.Scanner;
 //
 //        Output Format
 //Return a matrix that is rotated by 90 degrees in the clockwise direction.
-//
 //        Example 1
 //        3 3
 //        7  2  3

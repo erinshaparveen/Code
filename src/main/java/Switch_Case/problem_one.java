@@ -25,10 +25,9 @@ import java.util.Scanner;
 //Example 2
 //Input
 //
-//24
-//Output
-//
-//No value
+// 24
+// Output
+// No value
 public class problem_one {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

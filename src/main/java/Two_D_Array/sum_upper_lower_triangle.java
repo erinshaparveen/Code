@@ -31,7 +31,7 @@ import java.util.Scanner;
 //        1 5 3
 //        4 5 6
 //Output
-//
+
 //20 22
 public class sum_upper_lower_triangle {
     public static void main(String[] args) {

@@ -16,11 +16,11 @@ import java.util.Scanner;
 //Example 1
 //Input
 //
-//5
+// 5
 //        12 67 89 16 23
-//Output
+// Output
 //
-//2
+// 2
 public class greater_than_35 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

@@ -20,7 +20,6 @@ import java.util.Scanner;
 //        1 2 3
 //        4 5 6
 //Output
-//
 //1 2 3
 //        4 5 6
 public class print_array_2d {

@@ -26,13 +26,13 @@ import java.util.Scanner;
 //1
 //Explanation
 //
-//'B' is an uppercase alphabet.
+// 'B' is an uppercase alphabet.
 //
-//Example 2
-//Input
+// Example 2
+// Input
 //
 //        i
-//Output
+// Output
 //
 //0
 public class which_case {

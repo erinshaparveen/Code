@@ -28,8 +28,8 @@ import java.util.Scanner;
 //Example 2
 //Input
 //
-//12345
-//Output
+//   12345
+//   Output
 //
 //        1
 //        2

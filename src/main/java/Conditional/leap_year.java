@@ -40,10 +40,10 @@ import java.util.Scanner;
 //        Example 3
 //Input
 //
-//1900
-//Output
+// 1900
+// Output
 //
-//0
+// 0
 public class leap_year {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

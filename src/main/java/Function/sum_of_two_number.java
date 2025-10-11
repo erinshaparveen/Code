@@ -9,11 +9,11 @@ import java.util.Scanner;
 //
 //        Note that, output will be printed inside fun function.
 //
-//Input Format
-//First line contains two integers n and m.
+//   Input Format
+//  First line contains two integers n and m.
 //
-//Output Format
-//Print the sum of two integers.
+//  Output Format
+//  Print the sum of two integers.
 public class sum_of_two_number {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

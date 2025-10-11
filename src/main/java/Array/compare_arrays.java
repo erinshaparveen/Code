@@ -41,7 +41,7 @@ import java.util.Scanner;
 //Example 2
 //Input
 //
-//3
+//        3
 //        1 2 10
 //        3
 //        3 4 1
