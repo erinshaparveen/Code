@@ -23,7 +23,7 @@ import java.util.Scanner;
 //Input
 //
 //       5
-//        1 2 3 4 5
+//        1 2  3 4 5
 //Output
 //
 //     4

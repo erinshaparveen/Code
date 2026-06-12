@@ -8,7 +8,7 @@ import java.util.Scanner;
 //Input Format
 //The first line of input contains an integer n, size of the array.
 //
-//The next line contains n space-separated integers denoting the elements of the array.
+//The next line contains  n space-separated integers denoting the elements of the array.
 //
 //Output Format
 //Printing is handled by the main function you just have to come up with an inplace solution.

@@ -6,7 +6,7 @@ import java.util.Scanner;
 //Given an unsorted array of size N find the 2nd largest element from the array without sorting the array.
 //
 //Input Format
-//The first line contains a single integer N.
+//The first line contains a  single integer N.
 //
 //The second line consists of N integers of the array.
 //

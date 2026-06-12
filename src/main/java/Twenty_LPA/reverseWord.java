@@ -19,7 +19,7 @@ public class reverseWord {
             char ch;
             for(int j = 0 ; j <strWord.length(); j++)
             {
-                ch = strWord.charAt(j);
+                ch =  strWord.charAt(j);
                 revWord = ch + revWord;
             }
             revString = revString + revWord + " ";
