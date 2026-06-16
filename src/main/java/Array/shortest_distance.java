@@ -5,7 +5,7 @@ import java.util.Scanner;
 //Array Problem 6
 //Write a program to find out the shortest distance between two even positive integers in an array arr and print the distance. If there is one or zero even positive integer in the array then return -1.
 //
-//Note that if the index of one even positive integer is i and the index of another even positive integer is j then their distance will be |i-j|.
+//Note that if the ind ex of one even positive integer is i and the index of another even positive integer is j then their distance will be |i-j|.
 //
 //Input Format
 //First line contains n which is the size of the array.

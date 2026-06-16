@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class vowelsConsonants {
     public static void main(String[] args) {
         Scanner sc = new  Scanner (System.in);
-        String str = sc.nextLine();
+        String str =  sc.nextLine();
         int vawel = 0;
         int consonants =0;
         str = str.toLowerCase();

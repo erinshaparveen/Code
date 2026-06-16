@@ -8,7 +8,7 @@ import java.util.Scanner;
 //        Input Format
 //The first line of the input contains the number n(length of the array),
 //
-//The next line contains n space separated integers denoting the elements of the array.
+//The next line contain s n space separated integers denoting the elements of the array.
 //
 //Output Format
 //Print the index of the element if it satisfies the condition else print -1

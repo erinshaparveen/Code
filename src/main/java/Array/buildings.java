@@ -60,7 +60,7 @@ public class buildings {
     }
 
     public static void buildings(int[] arr, int n) {
-        // your code here
+        // y our code here
         int largest = largest_element(arr,n);
         for(int val = largest ;val>= 1;val--)
         {

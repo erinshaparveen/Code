@@ -10,6 +10,7 @@ public class uniqueCharacter {
     }
     public static void uniqueCharacterValue(String str)
     {
+
         boolean[] unique = new boolean[128];
         for(char ch : str.toCharArray())
         {

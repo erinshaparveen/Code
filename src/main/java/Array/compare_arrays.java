@@ -17,7 +17,7 @@ import java.util.Scanner;
 //
 //Fourth line contains m elements of the second array.
 //
-//n and m will always be equal.
+//n and m will  always be equal.
 //
 //        Output Format
 //Print the output as per difference.

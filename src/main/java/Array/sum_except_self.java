@@ -5,7 +5,7 @@ import java.util.Scanner;
 //Sum of Array Except Self
 //Given an array of n integers where n > 1, return an array output such that output[i] is equal to the sum of all the elements of nums except nums[i]. All integers in array are greater than 0.
 //
-//Input Format
+//Input For mat
 //First line consists of an integer n which is the number of elements in array
 //
 //Next n lines correspond to n elements of array

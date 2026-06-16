@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class smallestAndLargest {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+        Scanner sc =  new Scanner(System.in);
         int[] array = {1, 3, 5, 6,7 ,8 ,9 ,21, -44};
         int small = array[0];
         int lar = array [0];

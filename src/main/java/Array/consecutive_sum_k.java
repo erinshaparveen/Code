@@ -21,7 +21,7 @@ import java.util.Scanner;
 //Input
 //
 //4 3
-//        1 2 4 3
+//        1  2 4 3
 //Output
 //1
 public class consecutive_sum_k {

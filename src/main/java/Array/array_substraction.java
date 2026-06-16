@@ -68,7 +68,7 @@ public class array_substraction {
             {
                 borrow = 0;
             }
-            final_result[i] = val;
+            final_result[i] =  val;
         }
         for(int i = 0 ; i < final_result.length ; i++)
         {

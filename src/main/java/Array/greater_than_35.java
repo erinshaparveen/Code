@@ -3,7 +3,7 @@ package Array;
 import java.util.Scanner;
 
 //Array Problem 2
-//Write a program to count the elements in an array which are greater than 35.
+//Write a pr ogram to count the elements in an array which are greater than 35.
 //
 //Input  Format:
 //First line contains n, the size of an array.

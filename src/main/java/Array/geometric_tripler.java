@@ -13,7 +13,7 @@ import java.util.Scanner;
 //Second line contains N integers denoting the array elements separated by single space
 //
 //Output Format
-//Print all the triplets that form a geometric progression, each in a new line. Print each geometric triplet in lexicographic form i.e. if a set of triplet has a lesser value at the same position compared to some other triplet then it has to be printed before the latter one.
+//Print all the triplets tha t form a geometric progression, each in a new line. Print each geometric triplet in lexicographic form i.e. if a set of triplet has a lesser value at the same position compared to some other triplet then it has to be printed before the latter one.
 //
 //        Example 1
 //Input

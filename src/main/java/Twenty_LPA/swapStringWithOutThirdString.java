@@ -3,6 +3,7 @@ package Twenty_LPA;
 import java.util.Scanner;
 
 public class swapStringWithOutThirdString {
+
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String str1 = sc.nextLine();

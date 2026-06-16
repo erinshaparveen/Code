@@ -8,7 +8,7 @@ import java.util.Scanner;
 //
 //The first line contains 2 space-separated integers, n (size of array) and k.
 //
-//The second line contains n space-separated integers, each a value of arr[i].
+//The second line conta ins n space-separated integers, each a value of arr[i].
 //
 //Output Format
 //Print the number of pairs a[i] + a[j] divisble by k, where i<j.

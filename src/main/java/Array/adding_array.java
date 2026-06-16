@@ -35,7 +35,7 @@ public class adding_array {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        // Array One
+        // Array  One
         int arr_1_length = sc.nextInt();
         int[] arr_1 = new int[arr_1_length];
         for(int i =0 ; i< arr_1_length ; i++)

@@ -10,7 +10,7 @@ import java.util.Scanner;
 //Input Format
 //The first line contains an integer N representing the size of the array.
 //
-//The second line contains N space-separated integers representing the elements of the array.
+//The second line contains  N space-separated integers representing the elements of the array.
 //
 //The last line contains an integer K representing the number of times the array has to be rotated in the right direction if k is positive , otherwise to the left if k is negative.
 //

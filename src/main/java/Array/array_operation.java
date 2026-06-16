@@ -17,7 +17,7 @@ import java.util.Scanner;
 //Next line contains n space-separated integers, representing elements of the array arr.
 //
 //Output Format:
-//In a single line print 3 space-separated integers representing Sum, Average and Maximum among all the array elements.
+//In a single line print 3 spa ce-separated integers representing Sum, Average and Maximum among all the array elements.
 //
 //        Example 1
 //Input
