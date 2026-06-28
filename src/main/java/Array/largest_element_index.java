@@ -3,7 +3,7 @@ package Array;
 import java.util.Scanner;
 
 //Array Problem 1
-//Ruma has given an array arr to Sima such that it consists of n elements.
+//Ruma has give n an array arr to Sima such that it consists of n elements.
 //
 //Ruma asks Sima to write a program to find out the index of the largest element in present in the array and print the index.
 //

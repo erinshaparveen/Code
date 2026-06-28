@@ -41,6 +41,7 @@ public class maximum_sum_subarray {
         {
             arr[i] = sc.nextInt();
         }
+
         int max_sum = Integer.MIN_VALUE;
         int max_ending_here = 0;
         for (int num : arr) {

@@ -36,7 +36,7 @@ import java.util.Scanner;
 //
 //Overall sum of first array is 1+2 = 3
 //Overall sum of second array is 3+4 = 7
-//Thus, second array is larger
+//Thus, second  array is larger
 //
 //Example 2
 //Input

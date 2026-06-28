@@ -43,6 +43,7 @@ public class geometric_tripler {
             arr[i] = sc.nextInt();
         }
         geometric_tripler(arr, length);
+
     }
 
     public static void geometric_tripler(int[] arr, int length)

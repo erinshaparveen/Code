@@ -1,6 +1,7 @@
 package Twenty_LPA;
 
-public class addTwoArrays {
+public class addTwoArrays
+{
     public static void main(String[] args) {
         int[] array1 =   {3,5,7,7,2,1,2,6};
         int[] array2 = {5,4,2,1,6,9,0,3,1};

@@ -3,7 +3,7 @@ package Array;
 import java.util.Scanner;
 
 //Reverse an array
-//You are given an array arr of length n. You have to come up with an in-place solution.
+//You are given an arr ay arr of length n. You have to come up with an in-place solution.
 //
 //Input Format
 //The first line of input contains an integer n, size of the array.

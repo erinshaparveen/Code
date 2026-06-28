@@ -10,6 +10,7 @@ public class lowerUpper {
         StringBuilder upperCase = new StringBuilder();
         for(char ch: str.toCharArray())
         {
+
             if(Character.isLowerCase(ch))
             {
                 loweCase.append(ch);

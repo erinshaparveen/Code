@@ -3,7 +3,7 @@ package Array;
 import java.util.Scanner;
 
 //Largest Number At Least Twice of Others
-//You are given an integer array nums of size n where the largest integer is unique. Your task is to determine whether the largest element in the array is at least twice as much as every other number in the array. If it is, print the index of the largest element, or print -1 otherwise.
+//You are given an intege r array nums of size n where the largest integer is unique. Your task is to determine whether the largest element in the array is at least twice as much as every other number in the array. If it is, print the index of the largest element, or print -1 otherwise.
 //
 //        Input Format
 //The first line of the input contains the number n(length of the array),

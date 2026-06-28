@@ -5,6 +5,7 @@ import java.util.*;
 public class mergeTwoArrayInAscendingOrder {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+
         int[] array1 = {3,5,6,8,2,3,4,5};
         int[] array2 = {7,5,3,2,1,5,7,9,0};
         int[] mergesArray = new int[array1.length+array2.length];

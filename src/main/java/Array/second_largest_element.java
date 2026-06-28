@@ -3,7 +3,7 @@ package Array;
 import java.util.Scanner;
 
 //2nd Largest from array
-//Given an unsorted array of size N find the 2nd largest element from the array without sorting the array.
+//Given an unsorted array of s ize N find the 2nd largest element from the array without sorting the array.
 //
 //Input Format
 //The first l ine contains a  single integer N.

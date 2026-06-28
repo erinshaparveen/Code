@@ -3,7 +3,7 @@ package Array;
 import java.util.Scanner;
 
 //Array Problem 5
-//Karan has an array arr and an integer k. He wants to find out the number of consecutive pairs of array elements whose sum will be k.
+//Karan has an array arr and an integ er k. He wants to find out the number of consecutive pairs of array elements whose sum will be k.
 //
 //Write a program to count the number of consecutive pairs.
 //

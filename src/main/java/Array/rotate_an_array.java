@@ -60,6 +60,7 @@ public class rotate_an_array {
         {
             System.out.print(arr[i]+" ");
         }
+
     }
 
 //    right rotation

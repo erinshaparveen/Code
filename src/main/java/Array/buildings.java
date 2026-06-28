@@ -3,7 +3,7 @@ package Array;
 import java.util.Scanner;
 
 //Buildings
-//You have given a number n, representing the size of array arr.
+//You have given a  number n, representing the size of array arr.
 //
 //You are required to print a building representing value of arr using *.
 //

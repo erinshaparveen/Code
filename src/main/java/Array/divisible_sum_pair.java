@@ -33,7 +33,7 @@ public class divisible_sum_pair {
         System.out.println(divisible_sum_pair_count(arr, length, target_value));
     }
 
-    public static int divisible_sum_pair_count(int[] arr, int arr_length, int target_value)
+    public static int  divisible_sum_pair_count(int[] arr, int arr_length, int target_value)
     {
         int count = 0;
         for(int i = 0; i<arr_length; i++)

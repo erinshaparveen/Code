@@ -3,7 +3,7 @@ package Array;
 import java.util.Scanner;
 
 //Array Adding
-//You have given a number n1, representing the size of array arr1. You have given n1 numbers, representing elements of array arr1. You have given a number n2, representing the size of array arr2.You have given n2 numbers, representing elements of array arr2. The two arrays represent the digits of two numbers.
+//You have given a numbe r n1, representing the size of array arr1. You have given n1 numbers, representing elements of array arr1. You have given a number n2, representing the size of array arr2.You have given n2 numbers, representing elements of array arr2. The two arrays represent the digits of two numbers.
 //
 //You are required to add the numbers represented by two arrays and return the resultant arrays. n1 and n2 are of diferent size
 //

@@ -7,6 +7,7 @@ public class uniqueCharacter {
         Scanner sc = new Scanner(System.in);
         String str = sc.nextLine();
         uniqueCharacterValue(str);
+
     }
     public static void uniqueCharacterValue(String str)
     {

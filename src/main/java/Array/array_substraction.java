@@ -33,6 +33,7 @@ import java.util.Scanner;
 //        9
 //        8
 public class array_substraction {
+
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int arr1_length = sc.nextInt();

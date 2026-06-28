@@ -13,7 +13,7 @@ import java.util.Scanner;
 //Output Format:
 //Print the number of the elements present in the array which are greater than 35.
 //
-//Example 1
+//Exampl e 1
 //Input
 //
 // 5

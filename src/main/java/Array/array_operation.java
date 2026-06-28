@@ -7,7 +7,7 @@ import java.util.Scanner;
 //
 //Sum of all the elements in the array.
 //
-//Average of all the elements in the array (Give the floor value).
+//Average of al l the elements in the array (Give the floor value).
 //
 //Maximum element in the array.
 //
